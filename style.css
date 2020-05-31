@@ -12,3 +12,19 @@
     width: 80%;
     margin: 0 auto;
 }
+
+button {
+    margin-right: 2%;
+    border-radius: 20px;
+    color: purple;
+    background-color: aqua;
+}
+
+.todo {
+    background-color: rgb(199, 190, 190);
+    padding: 5px;
+}
+
+.newTodo {
+    margin-top: 5%;
+}
